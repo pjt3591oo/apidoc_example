@@ -1,5 +1,6 @@
 define({
   "name": "",
+  "title": "Mung Doc",
   "version": "0.0.0",
   "description": "",
   "sampleUrl": false,
@@ -7,7 +8,8 @@ define({
   "apidoc": "0.3.0",
   "generator": {
     "name": "apidoc",
-    "time": "2020-08-22T05:37:06.186Z",
+    "title": "Mung Doc",
+    "time": "2020-08-22T05:35:14.579Z",
     "url": "https://apidocjs.com",
     "version": "0.25.0"
   }

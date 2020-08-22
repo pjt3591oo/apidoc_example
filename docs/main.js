@@ -60,6 +60,7 @@ function ($, _, locale, Handlebars, apiProject, apiData, prettyPrint, sampleRequ
   loadGoogleFontCss();
 
   var api = apiData.api;
+  console.log(apiProject)
 
   //
   // Templates
